@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="demo"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="unit1"/>
+	<classpathentry kind="src" path="unit10"/>
+	<classpathentry kind="src" path="unit2"/>
+	<classpathentry kind="src" path="unit3"/>
+	<classpathentry kind="src" path="unit4"/>
+	<classpathentry kind="src" path="unit5"/>
+	<classpathentry kind="src" path="unit6"/>
+	<classpathentry kind="src" path="unit7"/>
+	<classpathentry kind="src" path="unit8"/>
+	<classpathentry kind="src" path="unit9/anisotropic-material"/>
+	<classpathentry kind="src" path="unit9/debugging-shaders"/>
+	<classpathentry kind="src" path="unit9/model-deformation"/>
+	<classpathentry kind="src" path="unit9/moving-flashlight"/>
+	<classpathentry kind="src" path="unit9/procedural-texturing"/>
+	<classpathentry kind="src" path="unit9/sharp-specular"/>
+	<classpathentry kind="src" path="unit9/two-tone-shading"/>
+	<classpathentry kind="src" path="unit9/vertex-normal-creation"/>
+	<classpathentry kind="src" path="unit9/wrap-lighting"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
